@@ -9,5 +9,7 @@ Consiste em listar todos os Pokémons registrados na API, apresentando imagem em
 ![gif da listagem de Pokémons](https://i.ibb.co/NnPT8t9/listagem.gif)  
 **2.2 Detalhes dos Pokémons**  
 É possível clicar na listagem de Pokémons e entrar nos detalhes do personagem, onde é apresentando os níveis de cada habilidade, as textos descritivos e os movimentos.  
-Perceba que a cor de fundo de cada personagem é de acordo com o seu tipo principal, ou seja, se o tipo princpal for **water**, o fundo será azul, se for **fire** será laranja e assim segue, tudo com detalhes em gradiente para melhorar o visual.  
-![gif de detalhes de Pokémons](https://i.ibb.co/3pPWs4c/detalhes.gif)
+Perceba que a cor de fundo de cada personagem é de acordo com o seu tipo principal, ou seja, se o tipo principal for **water**, o fundo será azul, se for **fire** será laranja e assim segue, todos os fundos com detalhes em gradiente.  
+![gif de detalhes de Pokémons parte 1 ](https://i.ibb.co/3pPWs4c/detalhes.gif)
+![gif de detalhes de Pokémons parte 2 ](https://i.ibb.co/JK08HKf/detalhes-2.gif)
+
