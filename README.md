@@ -12,7 +12,7 @@ Consiste em listar todos os Pokémons registrados na API, apresentando imagem em
 Perceba que a cor de fundo de cada personagem é de acordo com o seu tipo principal, ou seja, se o tipo principal for **water**, o fundo terá a cor azul, se for **fire** terá a cor laranja, com detalhes em gradiente.  
 ![gif de detalhes de Pokémons parte 1 ](https://i.ibb.co/3pPWs4c/detalhes.gif)
 ![gif de detalhes de Pokémons parte 2 ](https://i.ibb.co/JK08HKf/detalhes-2.gif)  
-**2.2 Listagem de Itens**  
+**2.3 Listagem de Itens**  
 O aplicativo também lista todos os itens disponibilizados pela API. O diferencial dessa listagem é que o tipo do item fica bem evidente na listagem, destacando-se no canto direito.  
-**2.2 Listagem dos Itens**  
+**2.4 Detalhes dos Itens**  
 Os detalhes dos itens são muito semelhantes a tela de detalhes dos Pokémons, note que as únicas diferenças significantes acabam sendo a remoção da tabview e a substituição da imagem pelo tipo do item. 
