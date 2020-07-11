@@ -17,4 +17,10 @@ O aplicativo também lista todos os movimentos disponibilizados pela API. O dife
 ![gif listagem dos movimentos](https://i.ibb.co/Prg7cXx/listagem-moves.gif)  
 **2.4 Detalhes dos Movimentos**  
 
-Os detalhes dos movimentos são muito semelhantes a tela de detalhes dos Pokémons, note que as únicas diferenças significantes acabam sendo a remoção da tabview e a substituição da imagem pelo tipo do item. 
+Os detalhes dos movimentos são muito semelhantes a tela de detalhes dos Pokémons, note que as únicas diferenças significantes acabam sendo a remoção da tabview e a substituição da imagem pelo tipo do item.  
+**2.5 Listagem dos Itens**  
+A listagem de itens mostra uma miniatura da imagem do item, o respectivo nome e o preço do artefato.  
+![gif listagem dos itens](https://i.ibb.co/kJQQMP2/listagem-itens.gif)  
+**2.6 Detalhes dos Itens**  
+A tela de detalhes dos itens é uma versão simplificada da tela de detalhes dos Pokémons, onde apenas foi trocado o componente de tabview por um componente que renderiza na tela os scores. Perceba que agora a cor de fundo gradiente não é dinâmica igual a outra tela de detalhes, isso porque os movimentos não possuem um tipo associado a eles.  
+![gif detalhes dos itens](https://i.ibb.co/98c5qch/detalhes-itens.gif)
