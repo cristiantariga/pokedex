@@ -21,8 +21,8 @@ Perceba que a cor de fundo de cada personagem é de acordo com o seu tipo princi
 O aplicativo também lista todos os movimentos disponibilizados pela API. O diferencial dessa listagem é que o tipo do movimento fica bem evidente na listagem, destacando-se no canto direito.  
 ![gif listagem dos movimentos](https://i.ibb.co/Prg7cXx/listagem-moves.gif)  
 **3.4 Detalhes dos Movimentos**  
-
 Os detalhes dos movimentos são muito semelhantes a tela de detalhes dos Pokémons, note que as únicas diferenças significantes acabam sendo a remoção da tabview e a substituição da imagem pelo tipo do item.  
+![gif detalhes dos movimentos](https://i.ibb.co/Jm5SP99/detalhes-moves.gif)  
 **3.5 Listagem dos Itens**  
 A listagem de itens mostra uma miniatura da imagem do item, o respectivo nome e o preço do artefato.  
 ![gif listagem dos itens](https://i.ibb.co/kJQQMP2/listagem-itens.gif)  
